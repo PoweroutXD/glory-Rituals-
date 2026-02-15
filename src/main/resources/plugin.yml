@@ -1,0 +1,12 @@
+name: MythicRelics
+version: 1.0.0
+main: com.mythicrelics.MythicRelicsPlugin
+api-version: "1.21"
+commands:
+  mythic:
+    description: MythicRelics admin + ritual commands
+    usage: /mythic <subcommand>
+    permission: mythic.admin
+permissions:
+  mythic.admin:
+    default: op

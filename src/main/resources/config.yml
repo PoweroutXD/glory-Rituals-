@@ -1,0 +1,35 @@
+particle-intensity: MED
+globalSingleRitual: true
+
+items:
+  voidblade: true
+  luckcoin: true
+  windwaker: true
+  heracles: true
+  zeus: true
+  goldenfleece: true
+  cronos: true
+  bagofwinds: true
+
+cooldowns-seconds:
+  voidblade.dragonrun: 300
+  voidblade.dragonbreath: 60
+  luckcoin.flip: 360
+  windwaker.gale: 420
+  heracles.titansurge: 300
+  zeus.empoweredthrow: 30
+  bagofwinds.gust: 34
+  cronos.timeprison: 180
+  goldenfleece.resurrect: 3600
+
+durations-seconds:
+  voidblade.dragonrun: 33
+  heracles.titansurge: 30
+  luckcoin.mace: 120
+  cronos.timeprison: 20
+  zeus.armwindow: 10
+
+ritual-duration-minutes:
+  default: 35
+  goldenfleece: 36
+  zeus: 40
